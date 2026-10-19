@@ -119,7 +119,7 @@ Powerside_testing_challenge/
 |---|---|---|
 | Onboarding | `TS-ONBD-xx` | "What's New" release-notes modal shown after login |
 | Dashboard | `TS-DASH-xx` | KPI cards, live voltage graph, recent alarms side panel |
-| Devices | `TS-DEV-xx` | Device list, search and filters, device detail page (current readings, voltage history, harmonic spectrum, power quality events, alarm history, device settings) |
+| Devices | `TS-DEV-xx` | Device list, search & filters, device detail page and settings |
 | Events | `TS-EVT-xx` | Power quality events, ITIC compliance scatter plot, event detail page |
 | Alarms | `TS-ALM-xx` | Alarm acknowledgement and resolution, threshold-based alarm triggering |
 
