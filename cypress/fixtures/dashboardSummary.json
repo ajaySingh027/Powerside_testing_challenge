@@ -1,0 +1,11 @@
+{
+  "totalDevices": 26,
+  "activeAlarms": 120,
+  "devicesOutOfSpec": 24,
+  "offlineDevices": 2,
+  "activeBySeverity": {
+    "Critical": 80,
+    "Warning": 30,
+    "Info": 10
+  }
+}

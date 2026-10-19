@@ -1,0 +1,12 @@
+node_modules/
+
+# macOS
+.DS_Store
+
+# local credentials
+cypress.env.json
+
+# cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/

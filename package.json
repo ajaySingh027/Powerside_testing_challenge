@@ -1,0 +1,19 @@
+{
+  "name": "power-quality-monitor",
+  "version": "1.0.0",
+  "description": "Cypress E2E tests for the Power Quality Monitor app",
+  "scripts": {
+    "cy:open": "cypress open --e2e",
+    "cy:run": "cypress run",
+    "cy:run:headed": "cypress run --headed",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:dashboard": "cypress run --spec cypress/e2e/dashboard.spec.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^16.2.0",
+    "typescript": "^7.0.2"
+  }
+}
